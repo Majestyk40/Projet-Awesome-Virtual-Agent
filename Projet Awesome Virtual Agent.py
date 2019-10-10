@@ -130,6 +130,5 @@ def assistant(command):
         avaSays("A bientôt")
         sys.exit()
 
-#test
 while True:
     assistant(userCommand())
