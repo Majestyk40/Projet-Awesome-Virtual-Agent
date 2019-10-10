@@ -1,7 +1,7 @@
 # Projet-Awesome-Virtual-Agent
 AVA est un assistant virtuel personnel que je souhaite rendre "intelligent" et autonome.
 AVA est un projet d'étude personnel qui me permet de jouer avec Python, des API et de l'intelligence artificielle avec le NLP.
-AVA sera embarqué dans une application mobile, et intègrera égelement un smart mirror fait maison (Les codes suivront au fur et à mesure)
+AVA sera embarqué dans une application mobile(https://github.com/Majestyk40/AVA), et intègrera égelement un smart mirror fait maison (Les codes suivront au fur et à mesure)
 
 # MARK One - Commandes basiques 
 AVA éxécute les tâches et fonctions que vous lui attribuerez.
